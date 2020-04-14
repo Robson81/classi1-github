@@ -9,6 +9,14 @@ public class Progran {
 		
 		System.out.println("good Afternoon");
 		
+		System.out.println("Good Nigth");
+		
+		int number = 9;
+		
+		if(number > 0) {
+			System.out.println(number + " é um numero positivo.");
+		}
+		
 	}
 
 }
