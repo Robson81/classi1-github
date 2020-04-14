@@ -6,6 +6,9 @@ public class Progran {
 
 		
 		System.out.println("Good Morning");
+		
+		System.out.println("good Afternoon");
+		
 	}
 
 }
